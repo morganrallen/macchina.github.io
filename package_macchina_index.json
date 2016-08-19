@@ -78,7 +78,6 @@
           ]
         },
         {
-
           "name": "bossac",
           "version": "1.6.1-arduino",
           "systems": [
@@ -118,7 +117,7 @@
               "size": "30320"
             }
           ]
-        },
+        }
         ]
       }
    ]
