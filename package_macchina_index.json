@@ -3,23 +3,23 @@
       {
          "name":"macchina",
          "maintainer":"Macchina",
-         "websiteURL":"http://macchina.cc",
-         "email":"support@macchina.cc",
+         "websiteURL":"https://www.macchina.cc",
+         "email":"info@macchina.cc",
          "help":{
-            "online":"https://macchina.cc/forum"
+            "online":"https://forum.macchina.cc/"
          },
          "platforms":[
         {
-          "name": "Macchina (Based on DUE: 32-bits ARM Cortex-M3)",
+          "name": "M2",
           "architecture": "sam",
-          "version": "1.6.9",
+          "version": "2.0.1",
           "category": "Macchina",
-          "url": "http://downloads.arduino.cc/cores/sam-1.6.9.tar.bz2",
-          "archiveFileName": "sam-1.6.9.tar.bz2",
-          "checksum": "SHA-256:a5eaf60b5845599c24229456d6f5cd2254a275c8b34cac9d5330e4cfab6b0aa7",
-          "size": "16473503",
+          "url": "https://macchina.github.io/Macchina-2.0.1.zip",
+          "archiveFileName": "Macchina-2.0.1.zip",
+          "checksum": "SHA-256:3ec55f67fac0cf77e2c548b51e63e54e19577d974d75516908b8b54fe19798a0",
+          "size": "43499127",
           "boards": [
-            {"name": "Macchina"}
+            {"name": "M2"}
           ],
           "toolsDependencies": [
             {
